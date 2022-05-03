@@ -2,17 +2,6 @@ package hackerrank
 
 import "fmt"
 
-// For your reference
-// type SinglyLinkedListNode struct {
-// 	data int32
-// 	next *SinglyLinkedListNode
-// }
-
-// type SinglyLinkedList struct {
-// 	head *SinglyLinkedListNode
-// 	tail *SinglyLinkedListNode
-// }
-
 // Iterative
 func printLinkedList(head *SinglyLinkedListNode) {
 	curr := head
