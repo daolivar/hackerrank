@@ -11,7 +11,6 @@ func arrayManipulation(n int32, queries [][]int32) int64 {
 	}
 	for _, val := range arr {
 		sum += int64(val)
-
 		max = maxVal(sum, max)
 	}
 	return max

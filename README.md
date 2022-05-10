@@ -12,4 +12,5 @@
 | 6 | [Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/print-the-elements-of-a-linked-list-in-reverse.go) | Easy |
 | 7 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/simple-array-sum.go) | Easy |
 | 8 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/solve-me-first.go) | Easy |
-| 9 | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/tree-preorder-traversal.go) | Easy |
+| 9 | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/tree-inorder-traversal.go) | Easy |
+| 10 | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/tree-preorder-traversal.go) | Easy |
