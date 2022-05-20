@@ -24,3 +24,8 @@
 | # | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/tree-inorder-traversal.go) | 🟩 Easy |
 | # | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/tree-postorder-traversal.go) | 🟩 Easy |
 | # | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/tree-preorder-traversal.go) | 🟩 Easy |
+
+# Java
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> | Description | Solution | Difficulty |
+| :----: | :----: | :----: | :----: |
+| # | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/welcome-to-java/Solution.java) | 🟩 Easy |
