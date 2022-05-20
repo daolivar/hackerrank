@@ -29,3 +29,4 @@
 | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> | Description | Solution | Difficulty |
 | :----: | :----: | :----: | :----: |
 | # | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/welcome-to-java/Solution.java) | 🟩 Easy |
+| # | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-stdin-and-stdout-1/Solution.java) | 🟩 Easy |
