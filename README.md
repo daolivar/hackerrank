@@ -33,3 +33,4 @@
 | # | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-stdin-and-stdout-II/Solution.java) | 🟩 Easy |
 | # | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-if-else/Solution.java) | 🟩 Easy |
 | # | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-output-formatting/Solution.java) | 🟩 Easy |
+| # | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-loops-I/Solution.java) | 🟩 Easy |
