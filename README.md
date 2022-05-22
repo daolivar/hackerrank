@@ -1,4 +1,4 @@
-<div><img src="assets/hackerrank-logo.png" alt="spider-cat" width="960" height="111"/></div>
+<div><img src="assets/hackerrank-logo.png" alt="hackerrank logo" width="960" height="111"/></div>
 
 ---
 
@@ -34,3 +34,4 @@
 | # | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-if-else/Solution.java) | 🟩 Easy |
 | # | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-output-formatting/Solution.java) | 🟩 Easy |
 | # | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-loops-I/Solution.java) | 🟩 Easy |
+| # | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-loops-II/Solution.java) | 🟩 Easy |
