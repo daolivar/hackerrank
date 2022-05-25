@@ -35,3 +35,4 @@
 | # | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-output-formatting/Solution.java) | 🟩 Easy |
 | # | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-loops-I/Solution.java) | 🟩 Easy |
 | # | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-loops-II/Solution.java) | 🟩 Easy |
+| # | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-datatypes/Solution.java) | 🟩 Easy |
