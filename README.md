@@ -37,3 +37,4 @@
 | # | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-loops-II/Solution.java) | 🟩 Easy |
 | # | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-datatypes/Solution.java) | 🟩 Easy |
 | # | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-end-of-file/Solution.java) | 🟩 Easy |
+| # | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-static-initializer-block/Solution.java) | 🟩 Easy |
