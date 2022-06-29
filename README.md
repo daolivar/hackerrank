@@ -39,3 +39,4 @@
 | # | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-end-of-file/Solution.java) | 🟩 Easy |
 | # | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-static-initializer-block/Solution.java) | 🟩 Easy |
 | # | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-int-to-string/Solution.java) | 🟩 Easy |
+| # | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) | [Java](https://github.com/daolivar/hackerrank/blob/main/java/java-date-and-time/Result.java) | 🟩 Easy |
