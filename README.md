@@ -11,6 +11,7 @@
 | # | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/solve-me-first.go) | 🟩 Easy |
 | # | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/staircase.go) | 🟩 Easy |
 
+---
 
 # Data Structures
 | <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> | Description | Solution | Difficulty |
@@ -24,6 +25,16 @@
 | # | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/tree-inorder-traversal.go) | 🟩 Easy |
 | # | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/tree-postorder-traversal.go) | 🟩 Easy |
 | # | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?isFullScreen=true) | [Go](https://github.com/daolivar/hackerrank/blob/main/tree-preorder-traversal.go) | 🟩 Easy |
+
+---
+
+# C++
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> | Description | Solution | Difficulty |
+| :----: | :----: | :----: | :----: |
+| # | [Say "Hello, World!" with C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/say-hello-world-with-cpp/main.cpp) | 🟩 Easy |
+| # | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/input-and-output/main.cpp) | 🟩 Easy |
+
+---
 
 # Java
 | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> | Description | Solution | Difficulty |
