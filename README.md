@@ -37,6 +37,7 @@
 | # | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/conditional-statements/main.cpp) | 🟩 Easy |
 | # | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/for-loop//main.cpp) | 🟩 Easy |
 | # | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/functions/main.cpp) | 🟩 Easy |
+| # | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/pointer/main.cpp) | 🟩 Easy |
 
 ---
 
