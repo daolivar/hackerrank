@@ -35,6 +35,7 @@
 | # | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/input-and-output/main.cpp) | 🟩 Easy |
 | # | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/basic-data-types/main.cpp) | 🟩 Easy |
 | # | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/conditional-statements/main.cpp) | 🟩 Easy |
+| # | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/for-loop//main.cpp) | 🟩 Easy |
 
 ---
 
