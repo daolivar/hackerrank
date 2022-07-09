@@ -34,6 +34,7 @@
 | # | [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/say-hello-world-with-cpp/main.cpp) | 🟩 Easy |
 | # | [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/input-and-output/main.cpp) | 🟩 Easy |
 | # | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/basic-data-types/main.cpp) | 🟩 Easy |
+| # | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/conditional-statements/main.cpp) | 🟩 Easy |
 
 ---
 
