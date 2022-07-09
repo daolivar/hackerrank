@@ -38,6 +38,7 @@
 | # | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/for-loop//main.cpp) | 🟩 Easy |
 | # | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/functions/main.cpp) | 🟩 Easy |
 | # | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/pointer/main.cpp) | 🟩 Easy |
+| # | [Array Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/arrays-introduction/main.cpp) | 🟩 Easy |
 
 ---
 
