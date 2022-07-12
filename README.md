@@ -40,6 +40,7 @@
 | # | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/pointer/main.cpp) | 🟩 Easy |
 | # | [Array Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/arrays-introduction/main.cpp) | 🟩 Easy |
 | # | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/variable-sized-arrays/main.cpp) | 🟩 Easy |
+| # | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/stringstream/main.cpp) | 🟩 Easy |
 
 ---
 
