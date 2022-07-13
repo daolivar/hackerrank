@@ -42,6 +42,7 @@
 | # | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/variable-sized-arrays/main.cpp) | 🟩 Easy |
 | # | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/stringstream/main.cpp) | 🟩 Easy |
 | # | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/strings/main.cpp) | 🟩 Easy |
+| # | [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/structs/main.cpp) | 🟩 Easy |
 ---
 
 # Java
