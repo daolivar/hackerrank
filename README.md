@@ -48,6 +48,7 @@
 | # | [Box It!](https://www.hackerrank.com/challenges/box-it/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/box-it/Box.cpp) | 🟩 Easy |
 | # | [Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/overload-operators/Complex.cpp) | 🟩 Easy |
 | # | [Vector Sort](https://www.hackerrank.com/challenges/vector-sort/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/vector-sort/main.cpp) | 🟩 Easy |
+| # | [Vector Erase](https://www.hackerrank.com/challenges/vector-erase/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/vector-erase/main.cpp) | 🟩 Easy |
 
 ---
 
