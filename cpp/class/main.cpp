@@ -20,32 +20,41 @@ public:
         last = "";
         standard = 0;
     }
+
     // setters
     void set_age(int age) {
         this->age = age;
     }
+
     void set_first_name(string first) {
         this->first = first;
     }
+
     void set_last_name(string last) {
         this->last = last;
     }
+
     void set_standard(int standard) {
         this->standard = standard;
     }
+
     // getters
     int get_age() {
         return age;
     }
+
     string get_first_name() {
         return first;
     }
+
     string get_last_name() {
         return last;
     }
+
     int get_standard() {
         return standard;
     }
+
     // member methods
     string to_string() {
         stringstream ss;

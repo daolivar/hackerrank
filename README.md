@@ -45,6 +45,7 @@
 | # | [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/structs/main.cpp) | 🟩 Easy |
 | # | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/class/main.cpp) | 🟩 Easy |
 | # | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/class-and-objects/Student.cpp) | 🟩 Easy |
+| # | [Box It!](https://www.hackerrank.com/challenges/box-it/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/box-it/Box.cpp) | 🟩 Easy |
 
 ---
 
