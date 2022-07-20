@@ -52,6 +52,7 @@
 | # | [Lower Bound STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/lower-bound-stl/main.cpp) | 🟩 Easy |
 | # | [Sets STL](https://www.hackerrank.com/challenges/cpp-sets/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/sets-stl/main.cpp) | 🟩 Easy |
 | # | [Maps STL](https://www.hackerrank.com/challenges/cpp-maps/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/maps-stl/main.cpp) | 🟩 Easy |
+| # | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/print-pretty/main.cpp) | 🟩 Easy |
 
 ---
 
