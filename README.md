@@ -53,6 +53,7 @@
 | # | [Sets STL](https://www.hackerrank.com/challenges/cpp-sets/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/sets-stl/main.cpp) | 🟩 Easy |
 | # | [Maps STL](https://www.hackerrank.com/challenges/cpp-maps/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/maps-stl/main.cpp) | 🟩 Easy |
 | # | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/print-pretty/main.cpp) | 🟩 Easy |
+| # | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/inheritance-introduction/main.cpp) | 🟩 Easy |
 
 ---
 
