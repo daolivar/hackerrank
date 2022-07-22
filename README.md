@@ -54,6 +54,7 @@
 | # | [Maps STL](https://www.hackerrank.com/challenges/cpp-maps/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/maps-stl/main.cpp) | 🟩 Easy |
 | # | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/print-pretty/main.cpp) | 🟩 Easy |
 | # | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/inheritance-introduction/main.cpp) | 🟩 Easy |
+| # | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/rectangle-area/main.cpp) | 🟩 Easy |
 
 ---
 
