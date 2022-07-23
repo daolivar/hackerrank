@@ -46,7 +46,6 @@
 | # | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/class/main.cpp) | 🟩 Easy |
 | # | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/class-and-objects/Student.cpp) | 🟩 Easy |
 | # | [Box It!](https://www.hackerrank.com/challenges/box-it/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/box-it/Box.cpp) | 🟩 Easy |
-| # | [Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/overload-operators/Complex.cpp) | 🟩 Easy |
 | # | [Vector Sort](https://www.hackerrank.com/challenges/vector-sort/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/vector-sort/main.cpp) | 🟩 Easy |
 | # | [Vector Erase](https://www.hackerrank.com/challenges/vector-erase/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/vector-erase/main.cpp) | 🟩 Easy |
 | # | [Lower Bound STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/lower-bound-stl/main.cpp) | 🟩 Easy |
@@ -57,6 +56,8 @@
 | # | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/rectangle-area/main.cpp) | 🟩 Easy |
 | # | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/multi-level-inheritance/main.cpp) | 🟩 Easy |
 | # | [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/cpp-class-templates/AddElements.cpp) | 🟩 Easy |
+| # | [Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/preprocessor-solution/main.cpp) | 🟩 Easy |
+| # | [Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/overload-operators/Complex.cpp) | 🟩 Easy |
 
 ---
 
