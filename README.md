@@ -58,6 +58,7 @@
 | # | [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/cpp-class-templates/AddElements.cpp) | 🟩 Easy |
 | # | [Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/preprocessor-solution/main.cpp) | 🟩 Easy |
 | # | [Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/overload-operators/Complex.cpp) | 🟩 Easy |
+| # | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/attribute-parser/main.cpp) | 🟧 Med. |
 
 ---
 
