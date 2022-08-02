@@ -61,6 +61,7 @@
 | # | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/attribute-parser/main.cpp) | 🟧 Med. |
 | # | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/inherited-code/main.cpp) | 🟧 Med. |
 | # | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/exceptional-server/main.cpp) | 🟧 Med. |
+| # | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem?isFullScreen=true) | [C++](https://github.com/daolivar/hackerrank/blob/main/cpp/virtual-functions/main.cpp) | 🟧 Med. |
 
 ---
 
