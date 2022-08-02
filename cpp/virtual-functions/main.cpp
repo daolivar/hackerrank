@@ -5,7 +5,7 @@
 #include <vector>
 using namespace std;
 
-// static variable for object ids
+// static variable for professor and student object ids
 static int prf_id = 1;
 static int stu_id = 1;
 
@@ -20,23 +20,7 @@ public:
     virtual void putdata() {
     }
 
-    string getName() {
-        return name;
-    }
-
-    int getAge() {
-        return age;
-    }
-
-    void setName(string name) {
-        this->name = name;
-    }
-
-    void setAge(int age) {
-        this->age = age;
-    }
-
-private:
+protected:
     string name;
     int age;
 };
@@ -48,16 +32,11 @@ public:
     }
 
     void getdata() {
-        string name;
-        int age;
-
         cin >> name >> age >> publications;
-        setName(name);
-        setAge(age);
     }
 
     void putdata() {
-        cout << getName() << " " << getAge() << " " << publications << " " << curr_id << endl;
+        cout << name << " " << age << " " << publications << " " << curr_id << endl;
     }
 
 private:
@@ -73,21 +52,14 @@ public:
     }
 
     void getdata() {
-        string name;
-        int age;
-
         cin >> name >> age;
-        setName(name);
-        setAge(age);
-
         for (int i = 0; i < 6; i++) { cin >> marks[i]; }
     }
 
     void putdata() {
         int sum = 0;
         for (int i = 0; i < 6; i++) { sum += marks[i]; }
-
-        cout << getName() << " " << getAge() << " " << sum << " " << curr_id << endl;
+        cout << name << " " << age << " " << sum << " " << curr_id << endl;
     }
 
 private:
@@ -95,8 +67,7 @@ private:
     int curr_id;
 };
 
-
-int main(){
+int main() {
 
     int n, val;
     cin>>n; //The number of objects that is going to be created.
