@@ -16,5 +16,11 @@ This repository contains my solutions to various coding problems on Hackerrank.
 |           [Print Function](https://www.hackerrank.com/challenges/python-print/problem)            |    Easy    |    [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/introduction/print_function/solution.py)    |
 |        [Write a Function](https://www.hackerrank.com/challenges/write-a-function/problem)         |   Medium   |   [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/introduction/write_a_function/solution.py)   |
 
+### Basic Data Types
+
+|                                         Problem                                          | Difficulty |                                                         Solution                                                         |
+| :--------------------------------------------------------------------------------------: | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
+| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) |    Easy    | [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/basic_data_types/list_comprehensions/solution.py) |
+
 <!-- New Table Entry Template -->
 <!-- | []() | Easy | [Code](https://github.com/daolivar/hackerrank/blob/main/) | -->
