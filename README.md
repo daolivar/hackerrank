@@ -18,9 +18,10 @@ This repository contains my solutions to various coding problems on Hackerrank.
 
 ### Basic Data Types
 
-|                                         Problem                                          | Difficulty |                                                         Solution                                                         |
-| :--------------------------------------------------------------------------------------: | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
-| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) |    Easy    | [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/basic_data_types/list_comprehensions/solution.py) |
+|                                                     Problem                                                     | Difficulty |                                                           Solution                                                            |
+| :-------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------------------------------------------------------------------------------------------------------: |
+|            [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)             |    Easy    |   [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/basic_data_types/list_comprehensions/solution.py)    |
+| [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) |    Easy    | [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/basic_data_types/find_the_runner_up_score/solution.py) |
 
 <!-- New Table Entry Template -->
-<!-- | []() | Easy | [Code](https://github.com/daolivar/hackerrank/blob/main/) | -->
+<!-- | []() | <Difficulty> | [Code](https://github.com/daolivar/hackerrank/blob/main/) | -->
