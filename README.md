@@ -23,6 +23,7 @@ This repository contains my solutions to various coding problems on Hackerrank.
 |            [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)             |    Easy    |   [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/basic_data_types/list_comprehensions/solution.py)    |
 | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) |    Easy    | [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/basic_data_types/find_the_runner_up_score/solution.py) |
 |                    [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)                    |    Easy    |       [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/basic_data_types/nested_lists/solution.py)       |
+|           [Find the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)           |    Easy    |   [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/basic_data_types/find_the_percentage/solution.py)    |
 
 <!-- New Table Entry Template -->
 <!-- | []() | <Difficulty> | [Code](https://github.com/daolivar/hackerrank/blob/main/) | -->
