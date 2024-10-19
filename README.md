@@ -29,9 +29,10 @@ This repository contains my solutions to various coding problems on Hackerrank.
 
 ### Strings
 
-|                               Problem                                | Difficulty |                                               Solution                                                |
-| :------------------------------------------------------------------: | :--------: | :---------------------------------------------------------------------------------------------------: |
-| [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) |    Easy    | [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/swap_case/solution.py) |
+|                                               Problem                                               | Difficulty |                                                     Solution                                                      |
+| :-------------------------------------------------------------------------------------------------: | :--------: | :---------------------------------------------------------------------------------------------------------------: |
+|                [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)                 |    Easy    |       [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/swap_case/solution.py)       |
+| [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) |    Easy    | [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/string_split_and_join/solution.py) |
 
 <!-- New Table Entry Template -->
 <!-- | []() | <Difficulty> | [Code](https://github.com/daolivar/hackerrank/blob/main/) | -->
