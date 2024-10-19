@@ -27,5 +27,11 @@ This repository contains my solutions to various coding problems on Hackerrank.
 |                       [Lists](https://www.hackerrank.com/challenges/python-lists/problem)                       |    Easy    |          [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/basic_data_types/lists/solution.py)           |
 |                      [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)                      |    Easy    |          [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/basic_data_types/tuples/solution.py)          |
 
+### Strings
+
+|                               Problem                                | Difficulty |                                               Solution                                                |
+| :------------------------------------------------------------------: | :--------: | :---------------------------------------------------------------------------------------------------: |
+| [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) |    Easy    | [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/swap_case/solution.py) |
+
 <!-- New Table Entry Template -->
 <!-- | []() | <Difficulty> | [Code](https://github.com/daolivar/hackerrank/blob/main/) | -->
