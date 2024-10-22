@@ -35,6 +35,7 @@ This repository contains my solutions to various coding problems on Hackerrank.
 | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) |    Easy    | [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/string_split_and_join/solution.py) |
 |         [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)          |    Easy    |    [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/whats_your_name/solution.py)    |
 |             [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)             |    Easy    |       [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/mutations/solution.py)       |
+|            [Find a String](https://www.hackerrank.com/challenges/find-a-string/problem)             |    Easy    |     [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/find_a_string/solution.py)     |
 
 <!-- New Table Entry Template -->
 <!-- | []() | <Difficulty> | [Code](https://github.com/daolivar/hackerrank/blob/main/) | -->
