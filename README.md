@@ -37,6 +37,7 @@ This repository contains my solutions to various coding problems on Hackerrank.
 |             [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)             |    Easy    |       [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/mutations/solution.py)       |
 |            [Find a String](https://www.hackerrank.com/challenges/find-a-string/problem)             |    Easy    |     [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/find_a_string/solution.py)     |
 |        [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)         |    Easy    |   [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/string_validators/solution.py)   |
+|           [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)            |    Easy    |    [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/text_alignment/solution.py)     |
 
 <!-- New Table Entry Template -->
 <!-- | []() | <Difficulty> | [Code](https://github.com/daolivar/hackerrank/blob/main/) | -->
