@@ -39,6 +39,7 @@ This repository contains my solutions to various coding problems on Hackerrank.
 |        [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)         |    Easy    |   [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/string_validators/solution.py)   |
 |           [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)            |    Easy    |    [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/text_alignment/solution.py)     |
 |                [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)                 |    Easy    |       [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/text_wrap/solution.py)       |
+|               [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)               |    Easy    |      [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/strings/capitalize/solution.py)       |
 
 <!-- New Table Entry Template -->
 <!-- | []() | <Difficulty> | [Code](https://github.com/daolivar/hackerrank/blob/main/) | -->
