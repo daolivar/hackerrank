@@ -46,6 +46,7 @@ This repository contains my solutions to various coding problems on Hackerrank.
 |                                            Problem                                            | Difficulty |                                                   Solution                                                    |
 | :-------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------------: |
 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) |    Easy    | [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/sets/introduction_to_sets/solution.py) |
+|               [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)               |   Medium   |       [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/sets/no_idea/solution.py)        |
 
 <!-- New Table Entry Template -->
 <!-- | []() | <Difficulty> | [Code](https://github.com/daolivar/hackerrank/blob/main/) | -->
