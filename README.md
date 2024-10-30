@@ -46,6 +46,7 @@ This repository contains my solutions to various coding problems on Hackerrank.
 |                                            Problem                                            | Difficulty |                                                   Solution                                                    |
 | :-------------------------------------------------------------------------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------------: |
 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) |    Easy    | [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/sets/introduction_to_sets/solution.py) |
+|            [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem)             |    Easy    |       [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/sets/set_add/solution.py)        |
 |  [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)   |    Easy    | [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/sets/systemic_difference/solution.py)  |
 |               [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)               |   Medium   |       [Code](https://github.com/daolivar/hackerrank/blob/main/python_prepare/sets/no_idea/solution.py)        |
 
